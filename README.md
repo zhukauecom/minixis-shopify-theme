@@ -1,0 +1,1 @@
+# minixis-shopify-theme
